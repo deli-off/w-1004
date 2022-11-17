@@ -12,16 +12,14 @@ header {
     margin-right: 300px;
 }
 
-ul {
+.header_ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     display: flex;
     gap: 40px;
 
-    li {
-        margin-left: 25px;
-    }
+    
 
     a {
         font-family: 'Roboto';
@@ -36,6 +34,10 @@ ul {
             border-bottom: 1px solid black;
         }
     }
+}
+
+.footer_li{
+    margin-left: 25px;
 }
 
 
