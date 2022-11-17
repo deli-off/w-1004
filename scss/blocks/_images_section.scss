@@ -1,0 +1,33 @@
+.images_section__inner__content {
+    text-align: center;
+    margin-top: 38px;
+
+    h2 {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 34px;
+        line-height: 36px;
+    }
+
+    p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.8px;
+        color: #A0A0A0;
+        max-width: 790px;
+        margin-left: 220px;
+        margin-top: 23px;
+    }
+}
+
+.images_section__inner__img {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    margin-left: 45px;
+    margin-top: 80px;
+}
